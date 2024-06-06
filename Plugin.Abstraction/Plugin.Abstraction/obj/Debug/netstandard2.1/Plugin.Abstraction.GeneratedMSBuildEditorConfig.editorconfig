@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Plugin.Abstraction
+build_property.ProjectDir = F:\04-Trainning\.NET Team\Plugin\PluginDemo\Plugin.Abstraction\Plugin.Abstraction\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
